@@ -1,0 +1,4 @@
+name: UHCLobby
+main: com.mcndsj.UHC_Lobby.UHC_Lobby
+version: 0.0.1-SNAPSHOT
+depend: [lobbyStatistics, LobbyDisplay, lobbyControl, GameEvent]
